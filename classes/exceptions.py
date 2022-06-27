@@ -1,0 +1,2 @@
+class BadDataSource(Exception):
+    pass
